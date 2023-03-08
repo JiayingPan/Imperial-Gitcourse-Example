@@ -1,2 +1,2 @@
 # Imperial-Gitcourse-Example
-git course example repo
+Hi, this is an example repositories about the imperial git course!
